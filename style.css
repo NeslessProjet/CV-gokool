@@ -1,0 +1,51 @@
+html
+{ font-family: raleway;
+  }
+
+.flottant{ float: left;  }
+.paragraphe2{clear: left;}
+
+h1, .secondtitre
+{ background-color: #dedce6;
+  width: 50%;
+  margin:  0 40% ;	
+  color: #16365d;
+  text-align: center;
+  font-size: 2.5em ;
+  font-family: Open+Sans+Condensed;}
+
+h2
+{ text-decoration: underline;
+  margin-left: 39%;
+  color: #719ECE;} 
+
+.secondtitre
+{ color: #719ECE;
+  font-size: 0.9em ;
+  font-family: raleway;
+  text-decoration: none;}
+
+
+h3
+{ color: #16365d;
+  margin: 2% 0 0 0;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+ul
+{ color: #7f7f7f;
+  margin-left: 40%;
+  font-weight: bold;
+} 
+
+time
+{ float: right;
+  font-size: 0.9em;}
+
+
+
+
+
+
+
